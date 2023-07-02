@@ -1,0 +1,10 @@
+baseURL = 'http://kevinsparling.netlify.com/'
+languageCode = 'en-us'
+title = 'Kevin Sparling | Teacher'
+theme = "newsroom"
+author = "Kevin Sparling"
+canonifyurls = true
+paginate = 12
+logo = ""
+faviconsDir = "images/icons/"
+blogDir = "post"
