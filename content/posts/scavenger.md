@@ -27,7 +27,7 @@ Near the end of the year I was overwhelmed by a number of different demands on m
 
 ## Student Scavanger Hunt
 
-I totally spaced on this portion of this. There was one thing that I worked on very carefully with my students though throughout my time with them - how to handle losing. We play a "sport" at QSI called Gagaball. The details about how the sport are played are not important, but what is important is that it is a crazy game, and we almost always finished second. We won one mini-tournament, we finished third once, but every other time we were second. 
+I totally spaced on this portion. There was one thing that I worked on very carefully with my students though throughout my time with them - how to handle losing. We play a "sport" at QSI called Gagaball. The details about how the sport are played are not important, but what is important is that it is a crazy game, and we almost always finished second. We won one mini-tournament, we finished third once, but every other time we were second. 
 
 Why does this matter? I know something about the correct mindset for sports, actually I wish I applied it more widely in my own life. The way I would say it is this: keep your focus on what you can effect! Don't worry about what other people are doing, just keep going until the game is over. 
 
