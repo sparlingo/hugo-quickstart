@@ -1,4 +1,4 @@
-baseURL = 'http://kevinsparling.netlify.com/'
+baseURL = 'https://kevinsparling.netlify.app/'
 languageCode = 'en-us'
 title = 'Kevin Sparling | Teacher'
 theme = "newsroom"
